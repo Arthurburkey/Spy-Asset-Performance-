@@ -1,0 +1,33 @@
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\ApplicationInsights.config
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\roslyn\csc.exe
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\roslyn\vbc.exe
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\assetPerformance Tracker.dll.config
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\assetPerformance Tracker.dll
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\assetPerformance Tracker.pdb
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\Microsoft.AI.Web.dll
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\Microsoft.AI.Web.xml
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\obj\Debug\assetPerformance Tracker.csprojResolveAssemblyReference.cache
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\obj\Debug\assetPerformance Tracker.dll
+C:\Users\Student\documents\visual studio 2015\Projects\assetPerformance Tracker\assetPerformance Tracker\obj\Debug\assetPerformance Tracker.pdb
